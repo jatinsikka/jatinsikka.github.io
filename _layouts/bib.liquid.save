@@ -346,7 +346,6 @@
               href="https://inspirehep.net/literature/{{ entry.inspirehep_id }}"
               aria-label="Inspirehep link"
               role="button"
-            >
             </a>
           {% endif %}
         </div>
