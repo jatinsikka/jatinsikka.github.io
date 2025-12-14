@@ -116,7 +116,7 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
+# disqus_shortname: # Disabled - using Giscus for comments (if needed)
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
@@ -248,8 +248,8 @@ jekyll-archives:
       year: "/blog/:year/"
       tags: "/blog/:type/:name/"
       categories: "/blog/:type/:name/"
-  books:
-    enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
+  # books:
+  #   enabled: [year, tags, categories] # disabled - books collection is commented out
 
 display_tags: [] # these tags will be displayed on the front page of your blog (disabled for CV website)
 display_categories: [] # these categories will be displayed on the front page of your blog (disabled for CV website)

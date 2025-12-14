@@ -4,8 +4,8 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 3
-cv_pdf: Jatin_Sikka_CV.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: Jatin_Sikka_CV.pdf # NOTE: Place Jatin_Sikka_CV.pdf in assets/pdf/ directory for the download link to work
+description: Curriculum Vitae - Education, Research, Work Experience, and Projects
 toc:
   sidebar: left
 ---
