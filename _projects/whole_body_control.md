@@ -7,20 +7,18 @@ importance: 3
 category: research
 ---
 
-Whole Body Control (WBC) for humanoid balancing can be formulated as an optimization problem which minimizes the joint acceleration and reaction forces. This approach enables stable and dynamic balancing for humanoid robots.
+Atlas Whole-Body Control project implementing a QP-based whole-body controller integrated with a DCM walking planner to generate stable locomotion trajectories for the Atlas humanoid.
 
 ## Overview
 
-Whole Body Control is a hierarchical control framework that allows humanoid robots to perform complex tasks while maintaining balance. The optimization-based formulation ensures that the robot can adapt to disturbances and maintain stability.
+I implemented a Quadratic Programming (QP)-based whole-body controller and integrated a Dynamic Capture Point (DCM) walking planner to generate stable locomotion trajectories for the Atlas humanoid robot. This approach enables stable and dynamic balancing while allowing the robot to perform complex tasks.
 
-## Mathematical Formulation
+## Technical Details
 
-WBC for humanoid balancing can be represented as an optimization problem that minimizes:
-
-- Joint acceleration
-- Reaction forces
-
-The formulation allows the robot to maintain balance while executing desired motions.
+- **Controller Type**: QP-based Whole-Body Control
+- **Planner**: DCM (Dynamic Capture Point) Walking Planner
+- **Robot Platform**: Atlas Humanoid
+- **Capabilities**: Stable locomotion trajectory generation and whole-body control
 
 <!-- Add your images here -->
 <div class="row">

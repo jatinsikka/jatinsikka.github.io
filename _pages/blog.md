@@ -3,6 +3,7 @@ layout: default
 permalink: /blog/
 title: blog
 nav: false
+# Blog disabled for CV website
 nav_order: 1
 pagination:
   enabled: true

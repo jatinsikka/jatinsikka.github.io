@@ -7,18 +7,19 @@ importance: 2
 category: research
 ---
 
-This project explores loco-manipulation—the combined task of locomotion and manipulation—by integrating reinforcement learning with a pretrained AMO controller in the MuJoCo physics simulation environment.
+This project explores long-horizon loco-manipulation for humanoids by building a hybrid control framework that integrates locomotion controllers with RL-based manipulation policies.
 
 ## Overview
 
-Loco-manipulation is a challenging problem in robotics that requires coordinating both the robot's movement (locomotion) and its manipulation capabilities. This project leverages a pretrained AMO controller as a foundation and uses reinforcement learning to adapt and improve performance for specific manipulation tasks.
+I am building a hybrid loco-manipulation control framework by integrating a locomotion controller with RL-based PPO-trained manipulation policies, enabling long-horizon factory tasks in MuJoCo with reward design. Additionally, I am training lightweight LLMs for SOP-driven high-level retrieval and planning to generate multi-step task plans and sequence MuJoCo skills with pre/post-condition checks.
 
 ## Technical Approach
 
 - **Simulation Environment**: MuJoCo
-- **Base Controller**: Pretrained AMO (Any Motion) Controller
-- **Learning Method**: Reinforcement Learning
-- **Task**: Combined locomotion and manipulation
+- **Base Controller**: Locomotion controller integrated with RL policies
+- **Learning Method**: Proximal Policy Optimization (PPO)
+- **Task**: Long-horizon loco-manipulation for humanoids
+- **Additional Components**: Lightweight LLMs for high-level planning and task sequencing
 
 <!-- Add your images here -->
 <div class="row">

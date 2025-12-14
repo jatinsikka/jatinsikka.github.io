@@ -2,11 +2,11 @@
 # the commented lines are the default social media links supported by the template
 # the socials will be displayed in the order they are defined here
 
-cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
+cv_pdf: /assets/pdf/Jatin_Sikka_CV.pdf # path to your CV PDF file
 email: jsikka@utexas.edu # your email address
 github_username: jatinsikka # your GitHub user name
 linkedin_username: jatinsikka # your LinkedIn user name
 # orcid_id: # your ORCID ID
-rss_icon: true # comment this line to hide the RSS icon
+# rss_icon: true # disabled for CV website
 scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
 # x_username: # your X handle

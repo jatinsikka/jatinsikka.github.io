@@ -20,4 +20,4 @@ latest_posts:
   enabled: false
 ---
 
-Grad student at UT Austin.
+Grad student at UT Austin pursuing a Master of Science, Ph.D. track in Mechanical Engineering with a focus in Robotics. My research interests include reinforcement learning for robotics, whole-body control, loco-manipulation, and mechatronics design.

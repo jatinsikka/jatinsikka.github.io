@@ -11,13 +11,14 @@ This project focuses on training a robotic arm using Reinforcement Learning, spe
 
 ## Overview
 
-The So-Arm project demonstrates the application of modern deep reinforcement learning techniques to robotic manipulation tasks. By leveraging Isaac Lab's physics simulation capabilities and PPO's sample-efficient learning, we can train complex robotic behaviors in simulation before deploying to real hardware.
+The SO-101 Arm RL Controller project demonstrates the application of modern deep reinforcement learning techniques to robotic manipulation tasks. I trained a PPO policy in Isaac Lab with custom reward shaping and am currently implementing deployment on real hardware for multi-pose execution.
 
 ## Technical Details
 
-- **Algorithm**: Proximal Policy Optimization (PPO)
+- **Algorithm**: Proximal Policy Optimization (PPO) with custom reward shaping
 - **Simulation Environment**: NVIDIA Isaac Lab
 - **Task**: Robotic arm manipulation and control
+- **Status**: Currently implementing deployment on real hardware for multi-pose execution
 
 <!-- Add your images here -->
 <div class="row">
