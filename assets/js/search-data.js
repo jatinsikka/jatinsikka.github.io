@@ -364,7 +364,10 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "news-started-as-a-master-of-science-ph-d-track-student-in-mechanical-engineering-at-ut-austin-focusing-on-robotics",
+      },{id: "news-started-as-senior-design-teaching-assistant-at-ut-austin-mentoring-6-teams-including-a-robotic-hand-nasa-artemis-rover-and-ml-based-industrial-defect-detection-system",
+          title: 'Started as Senior Design Teaching Assistant at UT Austin, mentoring 6 teams including...',
+          description: "",
+          section: "News",},{id: "news-started-as-a-master-of-science-ph-d-track-student-in-mechanical-engineering-at-ut-austin-focusing-on-robotics",
           title: 'Started as a Master of Science, Ph.D. track student in Mechanical Engineering at...',
           description: "",
           section: "News",},{id: "news-joined-the-human-centered-robotics-lab-at-ut-austin-working-on-long-horizon-loco-manipulation-for-humanoids-under-dr-luis-sentis",
