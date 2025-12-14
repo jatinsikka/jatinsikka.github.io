@@ -4,7 +4,7 @@
     - name: Full Name
       value: Jatin Sikka
     - name: Email
-      value: jsikka@utexas.edu
+      value: Jsikka@utexas.edu
     - name: Phone
       value: (919) 345-6263
     - name: Website
@@ -149,7 +149,7 @@
     - title: Robotic Arm
       year: Present
       description:
-        - Developed a custom-built robotic arm equipped with a camera and a basic machine learning algorithm using to autonomously identify and sort objects using Inverse Kinematics
+        - Developed a custom-built robotic arm equipped with a camera and a basic machine learning algorithm to autonomously identify and sort objects using Inverse Kinematics
     - title: Automated Water level Control System [Senior Design 1st Place]
       year: Present
       description:
