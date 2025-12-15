@@ -198,8 +198,10 @@ ul.task-list input[type="checkbox"] {
 .profile {
   width: 100%;
 
-  img {
-    transform: rotate(-90deg);
+  .profile-image-rotate {
+    img {
+      transform: rotate(-90deg) !important;
+    }
   }
 
   .more-info {
